@@ -7,5 +7,10 @@ module Memorable
   def count
     all.count
   end
+
+  def initialize
+    
+  end
+  
   
 end
